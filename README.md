@@ -27,7 +27,13 @@ As we speak, I am building, learning, and growing.
 |  PostgreSQL|Postman | Trello
 || Git | Autodesk Sketchbook
 ||Github |Canva
+||| Excalidraw
 
+|Deployment|
+|----------|
+|Vercel|
+|Surge|
+|GitHub Pages|
 
 
 
