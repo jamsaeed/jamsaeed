@@ -12,31 +12,21 @@ As we speak, I am building, learning, and growing.
 
 ## Tech Stack
 
-### Languages
 
-| HTML | CSS | JavaScript | Python |
-|------|------|------|------|
+|  Languages  |  Frontend  |  Backend  |
+|---------------------|------------|-----------|
+|(JS) – JavaScript| React | Django
+|(HTML) – HyperTextMarkupLanguage|  (EJS) - Embedded JavaScript|Node.js
+|(CSS) – Cascading Style Sheet| |Express.Js
+|(Py) Python|
 
-### Frontend
 
-| React | EJS |
-|------|------|
-
-### Backend
-
-| Django | Node.js | Express |
-|------|------|------|
-
-### Databases
-
-| MongoDB | PostgreSQL |
-|------|------|
-
-### Tools
-
-| Git | GitHub | Postman | Insomnia |
-|------|------|------|------|
-
+|  Databases  |  Tools  |  Design  |
+|-------------|--------|----------|
+|   MongoDB (noSQL) |Insomnia | Figma
+|  PostgreSQL (SQL)|Postman | Trello
+|| Git | AutoDesk Sketchbook
+||Github |Canva
 
 
 
