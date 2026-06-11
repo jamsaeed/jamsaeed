@@ -15,17 +15,17 @@ As we speak, I am building, learning, and growing.
 
 |  Languages  |  Frontend  |  Backend  |
 |---------------------|------------|-----------|
-|(JS) – JavaScript| React | Django
-|(HTML) – HyperTextMarkupLanguage|  (EJS) - Embedded JavaScript|Node.js
-|(CSS) – Cascading Style Sheet| |Express.Js
-|(Py) Python|
+|JavaScript| React | Django
+|HTML|  EJS |Node.js
+|CSS | |Express.js
+|Python|
 
 
 |  Databases  |  Tools  |  Design  |
 |-------------|--------|----------|
-|   MongoDB (noSQL) |Insomnia | Figma
-|  PostgreSQL (SQL)|Postman | Trello
-|| Git | AutoDesk Sketchbook
+|   MongoDB |Insomnia | Figma
+|  PostgreSQL|Postman | Trello
+|| Git | Autodesk Sketchbook
 ||Github |Canva
 
 
