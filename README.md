@@ -12,6 +12,32 @@ As we speak, I am building, learning, and growing.
 
 ## Tech Stack
 
+### Languages
+
+| HTML | CSS | JavaScript | Python |
+|------|------|------|------|
+
+### Frontend
+
+| React | EJS |
+|------|------|
+
+### Backend
+
+| Django | Node.js | Express |
+|------|------|------|
+
+### Databases
+
+| MongoDB | PostgreSQL |
+|------|------|
+
+### Tools
+
+| Git | GitHub | Postman | Insomnia |
+|------|------|------|------|
+
+
 
 
 
@@ -22,5 +48,6 @@ As we speak, I am building, learning, and growing.
 ## Beyond Coding
 
 ## Connect
+
 
 
