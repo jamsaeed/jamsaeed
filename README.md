@@ -110,8 +110,20 @@ Technology is evolving so am I.
 * Full Stack Development
 * Writing future coding tutorials
 
+
 ## Beyond Coding
 
+**When I am not coding, you'll usually find me**
+
+- Sketching future Ideas
+- Drawing Sprites
+- planning future projects
+- Testing new tools
+- Exploring new technologies
+- Designing interfaces
+- Turning simple Ideas to much bigger projects than originally intended
+
+`I enjoy learning by building, documenting what I discover, and exploring both web development and game development one project at a time.`
 
 ## Character Stats
 
