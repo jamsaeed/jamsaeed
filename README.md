@@ -1,5 +1,5 @@
 ## Hi there
-                            welcome to my Github page
+                            welcome to my Github page!
 
 ## About Me
 
@@ -11,7 +11,7 @@ As we speak, I am building, learning, and growing.
 
 
 ## Tech Stack
-<div align = "center"/>
+<div align = "center">
 
 |  Languages  |  Frontend  |  Backend  |
 |:---------------------:|:------------:|:-----------:|
@@ -38,7 +38,7 @@ As we speak, I am building, learning, and growing.
 |Surge|
 |GitHub Pages|
 
-<div>
+</div>
 
 
 ## Featured Projects
@@ -58,7 +58,7 @@ As we speak, I am building, learning, and growing.
 
 > A JavaScript calculator that supports chained operations, keyboard shortcuts, audio feedback, and light/dark mode switching.
 >
-> **Built with: **HTML, CSS, and JavaScript
+> **Built with:** HTML, CSS, and JavaScript
 >
 > [Live Demo](https://clicky-calculator.vercel.app/) • [📂Repository](https://github.com/jamsaeed/JavaScript_calculator)
 ---
@@ -90,7 +90,7 @@ As we speak, I am building, learning, and growing.
 
 
 ### Run and Collect
-> A browser based JavaScript platformer game focused on Movement, collectables, and core game mechanics
+> A browser based JavaScript platformer game focused on movement, collectables, and core game mechanics
 >
 > **Built with:** JavaScript, HTML
 >
@@ -115,13 +115,13 @@ Technology is evolving so am I.
 
 **When I am not coding, you'll usually find me**
 
-- Sketching future Ideas
+- Sketching future ideas
 - Drawing Sprites
 - planning future projects
 - Testing new tools
 - Exploring new technologies
 - Designing interfaces
-- Turning simple Ideas to much bigger projects than originally intended
+- Turning simple ideas to much bigger projects than originally intended
 
 `I enjoy learning by building, documenting what I discover, and exploring both web development and game development one project at a time.`
 
@@ -135,5 +135,5 @@ Tehe:15%
 
 ## Connect
 
-
+[linkedIn](https://www.linkedin.com/in/jameela-mohammed-)
 
