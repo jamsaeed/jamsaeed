@@ -100,8 +100,18 @@ As we speak, I am building, learning, and growing.
 #### Check all projects [here →](https://github.com/jamsaeed?tab=repositories)
 
 ## Learning Journey
+Technology is evolving so am I.
+
+**Currently Exploring:**
+* Game Development
+     * Unreal Engine
+     * Godot (GDScript)
+ * Advanced JavaScript
+* Full Stack Development
+* Writing future coding tutorials
 
 ## Beyond Coding
+
 
 ## Character Stats
 
