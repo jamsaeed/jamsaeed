@@ -49,7 +49,7 @@ As we speak, I am building, learning, and growing.
 >
 > **Built with**: Django, HTML, CSS, and JavaScript
 >
-> [Echo notes Repository](https://github.com/jamsaeed/echo-notes)
+> [📂Repository](https://github.com/jamsaeed/echo-notes)
 >
 
 ---
@@ -60,17 +60,41 @@ As we speak, I am building, learning, and growing.
 >
 > Built with: HTML, CSS, and JavaScript
 >
-> [Live Demo](https://clicky-calculator.vercel.app/), [ Repository](https://github.com/jamsaeed/JavaScript_calculator)
+> [Live Demo](https://clicky-calculator.vercel.app/) • [📂Repository](https://github.com/jamsaeed/JavaScript_calculator)
+---
+
+### Roompikr
+
+>A space-booking platform that allows users to discover and reserve meeting, rooms, workspaces, and study spaces through a seamless booking experience.
+>
+>**Built with**: Django, HTML, CSS, and JavaScript
+>
+> [📂Repository](https://github.com/Fatema-Abdulla/RoomPickr)
 
 
-Roompikr
+### Recall & Reveal
+>A browser-based memory game where players match pairs of cards.
+>
+>Built with: HTML, CSS, JavaScript
+>
+>🔗 [Live Demo](https://jamsaeed.github.io/Recall_and_Reveal/) • [📂 Repository](https://github.com/jamsaeed/Recall_and_Reveal)
 
-Portfolio
 
-Run & Collect
+### Portfolio
+>My personal portfolio showcasing projects, skills, and my development journey.
+>
+>**Built with:** React
+>
+>🚧 Currently under development • [📂repository](https://github.com/jamsaeed/Jameela_Mohammed_Saeed)
 
-Recall & Reveal
 
+### Run and Collect
+> A browser based JavaScript platformer game
+>
+> **Built with:** JavaScript, HTML
+>
+>🚧 Work in progress • [📂Repository](https://github.com/jamsaeed/Run_and_Collect)
+>
 
 ## Learning Journey
 
