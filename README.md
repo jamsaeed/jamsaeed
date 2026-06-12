@@ -47,38 +47,29 @@ As we speak, I am building, learning, and growing.
 
 > AI-powered note-taking application with text-to-speech functionality.
 >
-> **Built with**: Django, HTML, CSS, and JavaScript
+> **Built with:** Django, HTML, CSS, and JavaScript
 >
 > [📂Repository](https://github.com/jamsaeed/echo-notes)
 >
 
 ---
 
-### Clicky calculator
+### Clicky Calculator
 
 > A JavaScript calculator that supports chained operations, keyboard shortcuts, audio feedback, and light/dark mode switching.
 >
-> Built with: HTML, CSS, and JavaScript
+> **Built with: **HTML, CSS, and JavaScript
 >
 > [Live Demo](https://clicky-calculator.vercel.app/) • [📂Repository](https://github.com/jamsaeed/JavaScript_calculator)
 ---
 
 ### Roompikr
 
->A space-booking platform that allows users to discover and reserve meeting, rooms, workspaces, and study spaces through a seamless booking experience.
+>A space-booking platform that allows users to discover and reserve meeting rooms, workspaces, and study spaces through a seamless booking experience.
 >
->**Built with**: Django, HTML, CSS, and JavaScript
+>**Built with:** Django, HTML, CSS, and JavaScript
 >
 > [📂Repository](https://github.com/Fatema-Abdulla/RoomPickr)
-
-
-### Recall & Reveal
->A browser-based memory game where players match pairs of cards.
->
->Built with: HTML, CSS, JavaScript
->
->🔗 [Live Demo](https://jamsaeed.github.io/Recall_and_Reveal/) • [📂 Repository](https://github.com/jamsaeed/Recall_and_Reveal)
-
 
 ### Portfolio
 >My personal portfolio showcasing projects, skills, and my development journey.
@@ -87,18 +78,38 @@ As we speak, I am building, learning, and growing.
 >
 >🚧 Currently under development • [📂repository](https://github.com/jamsaeed/Jameela_Mohammed_Saeed)
 
+---
+  ## Games
+
+### Recall & Reveal
+>A browser-based memory game where players match pairs of cards.
+>
+>**Built with:** HTML, CSS, JavaScript
+>
+>🔗 [Live Demo](https://jamsaeed.github.io/Recall_and_Reveal/) • [📂 Repository](https://github.com/jamsaeed/Recall_and_Reveal)
+
 
 ### Run and Collect
-> A browser based JavaScript platformer game
+> A browser based JavaScript platformer game focused on Movement, collectables, and core game mechanics
 >
 > **Built with:** JavaScript, HTML
 >
 >🚧 Work in progress • [📂Repository](https://github.com/jamsaeed/Run_and_Collect)
 >
 
+#### Check all projects [here →](https://github.com/jamsaeed?tab=repositories)
+
 ## Learning Journey
 
 ## Beyond Coding
+
+## Character Stats
+
+Professional:60%
+
+Creativity:25%
+
+Tehe:15%
 
 ## Connect
 
