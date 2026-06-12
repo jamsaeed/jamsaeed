@@ -100,7 +100,7 @@ As we speak, I am building, learning, and growing.
 #### Check all projects [here →](https://github.com/jamsaeed?tab=repositories)
 
 ## Learning Journey
-Technology is evolving so am I.
+Technology is evolving, and so am I.
 
 **Currently Exploring:**
 * Game Development
@@ -127,11 +127,11 @@ Technology is evolving so am I.
 
 ## Character Stats
 
-Professional:60%
+Professional: 60%
 
-Creativity:25%
+Creativity: 25%
 
-Tehe:15%
+Tehe: 15%
 
 ## Connect
 
