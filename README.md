@@ -1,14 +1,20 @@
-## Hi there
-                            welcome to my Github page!
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
+<div align = "center">
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" /> Welcome to my Github page! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" />
 
-## About Me
+ <!-- ![pxdrwaing](./assets/pixil-frame-0%20(1).png) -->
+ <img src="./assets/pixil-frame-0 (1).png" alt="pixelJojo" width="500"  />
 
+</div>
+
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" />
+<div align= "center">
 I am Jameela Mohammed Saeed a Software Engineering bootcamp graduate from General Assembly. I love being creative and expressing that creativity through my work. I thrive in environments where creativity is appreciated.
 
-I am a Full-stack and a Frontend Developer with a big interest in Game development, not there yet, but I will be 💪🏼.
+I am a Full-stack and a Frontend Developer with a big interest in Game development, not there yet, but I will be <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" />.
 
 As we speak, I am building, learning, and growing.
-
+</div>
 
 ## Tech Stack
 <div align = "center">
@@ -41,7 +47,7 @@ As we speak, I am building, learning, and growing.
 </div>
 
 
-## Featured Projects
+## Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" />
 
 ### Echo Notes
 
@@ -71,6 +77,8 @@ As we speak, I am building, learning, and growing.
 >
 > [📂Repository](https://github.com/Fatema-Abdulla/RoomPickr)
 
+---
+
 ### Portfolio
 >My personal portfolio showcasing projects, skills, and my development journey.
 >
@@ -79,7 +87,7 @@ As we speak, I am building, learning, and growing.
 >🚧 Currently under development • [📂repository](https://github.com/jamsaeed/Jameela_Mohammed_Saeed)
 
 ---
-  ## Games
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> Games
 
 ### Recall & Reveal
 >A browser-based memory game where players match pairs of cards.
@@ -99,7 +107,7 @@ As we speak, I am building, learning, and growing.
 
 #### Check all projects [here →](https://github.com/jamsaeed?tab=repositories)
 
-## Learning Journey
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Herb.webp" alt="Herb" width="25" height="25" /> Learning Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" />
 Technology is evolving, and so am I.
 
 **Currently Exploring:**
@@ -108,16 +116,16 @@ Technology is evolving, and so am I.
      * Godot (GDScript)
  * Advanced JavaScript
 * Full Stack Development
-* Writing future coding tutorials
+* Writing future coding tutorials <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" />
 
 
-## Beyond Coding
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cherry%20Blossom.webp" alt="Cherry Blossom" width="25" height="25" /> Beyond Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Sparkling%20Heart.webp" alt="Sparkling Heart" width="25" height="25" />
 
 **When I am not coding, you'll usually find me**
 
 - Sketching future ideas
 - Drawing Sprites
-- planning future projects
+- Planning future projects
 - Testing new tools
 - Exploring new technologies
 - Designing interfaces
@@ -125,13 +133,13 @@ Technology is evolving, and so am I.
 
 `I enjoy learning by building, documenting what I discover, and exploring both web development and game development one project at a time.`
 
-## Character Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Herb.webp" alt="Herb" width="25" height="25" /> Learning Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" /> Character Stats
 
-Professional: 60%
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Cat%20With%20Smiling%20Eyes.webp" alt="Grinning Cat With Smiling Eyes" width="25" height="25" /> Professional: 60%
 
-Creativity: 25%
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Creativity: 25%
 
-Tehe: 15%
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Tehe: 15%
 
 ## Connect
 
