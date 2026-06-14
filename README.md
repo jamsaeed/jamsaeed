@@ -17,7 +17,7 @@ I am a Full-stack and a Frontend Developer with a big interest in Game developme
 As we speak, I am building, learning, and growing.
 </div>
 
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Tech Stack
 <div align = "center">
 
 |  Languages  |  Frontend  |  Backend  |
