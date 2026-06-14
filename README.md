@@ -134,7 +134,7 @@ Technology is evolving, and so am I.
 
 `I enjoy learning by building, documenting what I discover, and exploring both web development and game development one project at a time.`
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Herb.webp" alt="Herb" width="25" height="25" /> Learning Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" /> Character Stats
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> Character Stats
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Cat%20With%20Smiling%20Eyes.webp" alt="Grinning Cat With Smiling Eyes" width="25" height="25" /> Professional: 60%
 
