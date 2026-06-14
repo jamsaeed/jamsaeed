@@ -1,6 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
 <div align = "center">
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" /> Welcome to my Github page! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" />
+ </br>
 
  <!-- ![pxdrwaing](./assets/pixil-frame-0%20(1).png) -->
  <img src="./assets/pixil-frame-0 (1).png" alt="pixelJojo" width="500"  />
