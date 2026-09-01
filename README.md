@@ -44,6 +44,8 @@ As we speak, I am building, learning, and growing.
 |Vercel|
 |Surge|
 |GitHub Pages|
+|Render|
+|Supabase|
 
 </div>
 
@@ -56,7 +58,7 @@ As we speak, I am building, learning, and growing.
 >
 > **Built with:** Django, HTML, CSS, and JavaScript
 >
-> [📂Repository](https://github.com/jamsaeed/echo-notes)
+> [Live Demo]()• [📂Repository](https://github.com/jamsaeed/echo-notes)
 >
 
 ---
