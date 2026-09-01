@@ -11,10 +11,11 @@
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" />
 <div align= "center">
 I am Jameela Mohammed Saeed a Software Engineering bootcamp graduate from General Assembly. I love being creative and expressing that creativity through my work. I thrive in environments where creativity is appreciated.
-
-
+<br/>
+<br/>
 I recently completed my Game Development internship at SKRA, where I got hands-on experience with Unreal Engine and brought my creativity to life. I had the opportunity to build, test, and ship a game. and I am excited to see where the next opportunity takes me!
-
+<br/>
+<br/>
 I am a Full-stack and a Game Developer  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" />.
 
 As we speak, I am building, learning, and growing.
