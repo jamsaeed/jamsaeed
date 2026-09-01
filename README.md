@@ -12,7 +12,7 @@
 <div align= "center">
 I am Jameela Mohammed Saeed a Software Engineering bootcamp graduate from General Assembly. I love being creative and expressing that creativity through my work. I thrive in environments where creativity is appreciated.
 
-I am a Full-stack and a Frontend Developer with a big interest in Game development, not there yet, but I will be <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" />.
+I am a Full-stack and a Game Developer  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" />.
 
 As we speak, I am building, learning, and growing.
 </div>
