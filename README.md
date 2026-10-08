@@ -62,7 +62,7 @@ As we speak, I am building, learning, and growing.
 >
 > **Built with:** Django, HTML, CSS, and JavaScript
 >
-> [Live Demo]()• [📂Repository](https://github.com/jamsaeed/echo-notes)
+> [Live Demo](https://echo-notes-hoea.onrender.com/)• [📂Repository](https://github.com/jamsaeed/echo-notes)
 >
 
 ---
