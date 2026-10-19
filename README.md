@@ -58,7 +58,7 @@ As we speak, I am building, learning, and growing.
 
 ### Echo Notes
 
-> AI-powered note-taking application with text-to-speech functionality.
+> Note-taking application with text-to-speech functionality.
 >
 > **Built with:** Django, HTML, CSS, and JavaScript
 >
